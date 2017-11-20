@@ -9,7 +9,8 @@ This project aims at classifying in-bed posture from off the shelf low cost webc
 ## before everything 
 - Install matlab2016a.(Higher version can work as long as they keep the same toolbox APIs. )
 Make sure machine learning toolbox, computer vision toolbox and Bioinformatics toolbox are installed.
-- download manne2 dataset from our [website](http://www.northeastern.edu/ostadabbas/2017/11/19/in-bed-general-posture-estimation/)
+- download manne2 dataset from our [website](http://www.northeastern.edu/ostadabbas/2017/11/19/in-bed-general-posture-estimation/), 
+this dataset has already been downsampled to have width 64 pixels. 
 - Put code and dataset folder in the same folder. Unzip the manne2 into dataset folder. You can also specify the dataset path in code.
 
 
