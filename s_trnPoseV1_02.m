@@ -7,8 +7,8 @@
 % put right imag folder information. target mat file here.
 
 % clc;clear;
-% dataRt ='..\dataset\manneSep2';
-dataRt ='..\dataset\humanSep2';
+dataRt ='..\dataset\manneSep2';
+% dataRt ='..\dataset\humanSep2';
 rstImgRt = 'rstImg';
 % resAnchorage, Alaskault folder
 matFd = 'matData';
@@ -22,7 +22,8 @@ if 7~=exist(matFd)
 end
 
 % set up the specific working folder. <*********************<<<<<<<<
-specificAim='trPoseHumanV2'; % for model traning
+% specificAim='trPoseHumanV2'; % for model traning
+specificAim = 'trPoseManneV2';
 % specificAim = 'occupied'; % for simple setup
 
 % ***********************>>>>>>>>>>>>

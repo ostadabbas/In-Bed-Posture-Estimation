@@ -8,7 +8,7 @@ cellDimArr  = 5:5:30;  % assign all the possible cell size
 for ind_cell =1:length(cellDimArr)
     cellDim = cellDimArr(ind_cell);
     s_trnOccupiedV1_02;
-%     s_trnPoseV1_02;   % commment for occupation only training 
+    s_trnPoseV1_02;   % commment for occupation only training 
 end
     
 
