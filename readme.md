@@ -26,6 +26,7 @@ s_drawCellAccuracy.m visulizes the cross validation result of each model.
 ## Citation
 Please cite our paper if it helps your research:
 
+<<<<<<< HEAD
 	@inproceedings{liu2017vision,
 	  title={A Vision-Based System for In-Bed Posture Tracking},
 	  author={Liu, Shuangjun and Ostadabbas, Sarah},
@@ -33,5 +34,16 @@ Please cite our paper if it helps your research:
 	  pages={1373--1382},
 	  year={2017}
 	}
+=======
+@inproceedings{liu2017vision,
+  title={A Vision-Based System for In-Bed Posture Tracking},
+  author={Liu, Shuangjun and Ostadabbas, Sarah},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1373--1382},
+  year={2017}
+}
+
+
+>>>>>>> 8fccbba27b23c13a059b4c2b676a1b99522d70a6
 
 
