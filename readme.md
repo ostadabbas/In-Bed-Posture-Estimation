@@ -23,6 +23,17 @@ s_clsOccupiedAndPostureV1_02.m to evaluate on the test set.
 
 s_drawCellAccuracy.m visulizes the cross validation result of each model. 
 
+## Citation
+Please cite our paper if it helps your research:
+
+@inproceedings{liu2017vision,
+  title={A Vision-Based System for In-Bed Posture Tracking},
+  author={Liu, Shuangjun and Ostadabbas, Sarah},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1373--1382},
+  year={2017}
+}
+
 
 
 
