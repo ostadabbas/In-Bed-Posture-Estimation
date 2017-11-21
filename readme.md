@@ -9,8 +9,7 @@ This project aims at classifying in-bed posture from off the shelf low cost webc
 ## before everything 
 - Install matlab2016a.(Higher version can work as long as they keep the same toolbox APIs. )
 Make sure machine learning toolbox, computer vision toolbox and Bioinformatics toolbox are installed.
-- download manne2 dataset from our [website](http://www.northeastern.edu/ostadabbas/2017/11/19/in-bed-general-posture-estimation/), 
-this dataset has already been downsampled to have width 64 pixels. 
+- download manne2 dataset from our [website](http://www.northeastern.edu/ostadabbas/2017/11/19/in-bed-general-posture-estimation/)
 - Put code and dataset folder in the same folder. Unzip the manne2 into dataset folder. You can also specify the dataset path in code.
 
 
@@ -24,16 +23,6 @@ s_clsOccupiedAndPostureV1_02.m to evaluate on the test set.
 
 s_drawCellAccuracy.m visulizes the cross validation result of each model. 
 
-## Citation
-If you find our code and dataset helpful to you, please cite our paper
-
-@inproceedings{liu2017vision,
-  title={A Vision-Based System for In-Bed Posture Tracking},
-  author={Liu, Shuangjun and Ostadabbas, Sarah},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={1373--1382},
-  year={2017}
-}
 
 
 
