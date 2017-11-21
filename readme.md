@@ -1,7 +1,8 @@
 # in-bed posture estimation 
 Shuangjun Liu,  "[In-bed posture estimation](www.website coming later)" ,  Assistive Computer Vision and Robotics (ACVR) 2017 
 
-contact: metero616@gmail.com
+contact: Sarah Ostaddabas (ostadabbas@ece.neu.edu )
+Shuangjun Liu (shuliu@ece.neu.edu)
 
 ## project description
 This project aims at classifying in-bed posture from off the shelf low cost webcam with potential applications in health care and sleeping research. 
