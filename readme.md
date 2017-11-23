@@ -1,5 +1,5 @@
 # in-bed posture estimation 
-Shuangjun Liu,  "[In-bed posture estimation](www.website coming later)" ,  Assistive Computer Vision and Robotics (ACVR) 2017 
+Shuangjun Liu,  "In-bed posture estimation" ,  Assistive Computer Vision and Robotics (ACVR) 2017 
 
 contact: Sarah Ostaddabas (ostadabbas@ece.neu.edu )
 Shuangjun Liu (shuliu@ece.neu.edu)
